@@ -45,7 +45,7 @@ permissions:
     default: op
   multiworld.command.teleport:
     description: Permission for /multiworld teleport
-    default: op
+    default: true
   multiworld.command.unload:
     description: Permission for /multiworld unload
     default: op
